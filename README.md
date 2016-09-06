@@ -1,2 +1,2 @@
 # Playing-with-filenames
-Python code to remove the numerals from the file names in a directory.
+Python code to remove the numbers from the file names in a directory.
